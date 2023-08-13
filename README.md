@@ -26,12 +26,13 @@ python main.py
 5. Click the "DOWNLOAD" button to initiate the download.
 
 ## Screenshots
-
-![Screenshot 1](Screenshots/Sc_youtubify_v2.png)
 *Screenshot 1: YOUTUBIFY V2.0 main interface.*
 
-![Screenshot 2](Screenshots/Sc_youtubify_v2_on_progress.png)
+![Screenshot 1](Screenshots/Sc_youtubify_v2.png)
+
 *Screenshot 2: Download in progress with the progress bar.*
+
+![Screenshot 2](Screenshots/Sc_youtubify_v2_on_progress.png)
 
 ## Contributions
 
