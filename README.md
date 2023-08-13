@@ -15,7 +15,6 @@ To use the YOUTUBIFY V2.0 application, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required Python libraries:
-
-  '''
-  pip install tkinter pytube clipboard
-  '''
+```
+pip install tkinter pytube clipboard
+```
